@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatbashiwal" alt="rajatbashiwal" /></a> </p>
 
-- 🔭 I’m currently working on [UBER](...)
+- 🔭 I’m currently working on [Face Recognition Attendance system](...)
 
 - 🌱 I’m currently learning **Frameworks and Backend nodejs**
 
